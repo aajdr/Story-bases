@@ -5,4 +5,6 @@ int main(
   int place = 0;
   int main characters = 0;
   int background = 0;
+  
+  cout << hi there Jackson << endl
 )
