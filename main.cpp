@@ -6,5 +6,5 @@ int main(
   int main characters = 0;
   int background = 0;
   
-  cout << hi there Jackson << endl
+  std::cout << hi there Jackson << std::endl
 )
