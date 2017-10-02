@@ -2,10 +2,11 @@
 
 int main()
 {
-  int antagonist = 0;
-  int place = 0;
-  int main characters = 0;
-  int background = 0;
-  
-  std::cout << hi there Jackson << std::endl
+  bool done = false;
+    while(done == false)
+    { if(int story == 1)
+    {
+      std::cout << "Once upon a time" << std::cout
+      }
+  std::cout << "hi there Jackson" << std::endl
 }
