@@ -7,9 +7,10 @@ int main()
     while(done == false)
     { if(story == 1)
     {
-      std::cout << "Once upon a time" << std::cout;
+      std::cout << "Once upon a time" << std::endl;
       }
-  std::cout << "hi there Jackson" << std::endl;
+  std::cout << "Jackson DeBose died" << std::endl;
+     done = true;
     }
-  bool done = true;
+   
 }
